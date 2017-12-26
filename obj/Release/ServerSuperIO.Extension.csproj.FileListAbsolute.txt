@@ -1,0 +1,5 @@
+F:\工作目录\工作区\平台软件\ServerSuperIO-v4\trunk\ServerSuperIO\ServerSuperIO.Extension\obj\Release\ServerSuperIO.Extension.csprojResolveAssemblyReference.cache
+F:\工作目录\工作区\平台软件\ServerSuperIO-v4\trunk\bin\ServerSuperIO.Extension.dll
+F:\工作目录\工作区\平台软件\ServerSuperIO-v4\trunk\bin\ServerSuperIO.Extension.pdb
+F:\工作目录\工作区\平台软件\ServerSuperIO-v4\trunk\ServerSuperIO\ServerSuperIO.Extension\obj\Release\ServerSuperIO.Extension.dll
+F:\工作目录\工作区\平台软件\ServerSuperIO-v4\trunk\ServerSuperIO\ServerSuperIO.Extension\obj\Release\ServerSuperIO.Extension.pdb
